@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anamika Pandey</h1>
-<h3 align="center">A Girl Trying to Figure-Out Stuffs!!</h3>
+<h3 align="center">A Girl Trying to figure-Out Stuffs!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamika62&label=Profile%20views&color=0e75b6&style=flat" alt="anamika62" /> </p>
 
@@ -14,7 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pandeyanamika62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pandeyanamika62" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anamika-pandey-2b44a5205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anamika-pandey-2b44a5205/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anamika62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anamika62" height="30" width="40" /></a>
+<a href="https://instagram.com/anamikapandey_62_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anamikapandey_62_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anayashipandey62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anayashipandey62" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/@anayashipandey62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@anayashipandey62" height="30" width="40" /></a>
 </p>
